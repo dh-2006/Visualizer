@@ -172,5 +172,5 @@ Some ideas to extend this project:
 
 Thanks for checking out the Sales Data Analyzer project.
 
-**Quick access:** [Source Code](Data_Visualization.py) · [Sample CSV](sales_records.csv) · [Watch Tutorials](https://www.youtube.com/results?search_query=python+sales+data+analysis+project+beginner)
+**Quick access:** [Source Code](https://github.com/dh-2006/Visualizer/blob/main/Visualizer/Data_Visualization.py) · [Sample CSV](https://github.com/dh-2006/Visualizer/blob/main/Visualizer/sales_records.csv) · [Watch Tutorials](https://www.youtube.com/results?search_query=python+sales+data+analysis+project+beginner)
 

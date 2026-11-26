@@ -7,11 +7,11 @@
 
 ## 🚀 Quick Links
 
-| Explore | Click to open |
+| Explore | Click to Open |
 |---|---|
-| 💻 **Source Code** | [Open Python Source Code](sales_data_analyzer.py) |
-| 📁 **Sample Dataset** | [Open 100-Record Sales CSV](sales_100_records.csv) |
-| 🎥 **Watch a Tutorial** | [Find Python Sales Data Analysis Videos on YouTube](https://www.youtube.com/results?search_query=python+sales+data+analysis+project+beginner) |
+| 💻 **Source Code** | [![View Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-green?style=for-the-badge)](sales_data_analyzer.py) |
+| 📁 **Sample Dataset** | [![Download Dataset](https://img.shields.io/badge/DOWNLOAD_CSV-blue?style=for-the-badge)](sales_100_records.csv) |
+| 🎥 **Watch a Tutorial** | [![Watch Video](https://img.shields.io/badge/WATCH_VIDEO-red?style=for-the-badge)](YOUR_VIDEO_LINK) |
 
 ---
 

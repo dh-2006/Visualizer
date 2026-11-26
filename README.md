@@ -9,8 +9,8 @@
 
 | Explore | Click to Open |
 |---|---|
-| 💻 **Source Code** | [![View Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-green?style=for-the-badge)](sales_data_analyzer.py) |
-| 📁 **Sample Dataset** | [![Download Dataset](https://img.shields.io/badge/DOWNLOAD_CSV-blue?style=for-the-badge)](sales_100_records.csv) |
+| 💻 **Source Code** | [![View Source Code](https://img.shields.io/badge/VIEW_SOURCE_CODE-green?style=for-the-badge)](https://github.com/dh-2006/Visualizer/blob/main/Visualizer/Data_Visualization.py) |
+| 📁 **Sample Dataset** | [![Download Dataset](https://img.shields.io/badge/DOWNLOAD_CSV-blue?style=for-the-badge)](https://github.com/dh-2006/Visualizer/blob/main/Visualizer/sales_records.csv) |
 | 🎥 **Watch a Tutorial** | [![Watch Video](https://img.shields.io/badge/WATCH_VIDEO-red?style=for-the-badge)](YOUR_VIDEO_LINK) |
 
 ---
